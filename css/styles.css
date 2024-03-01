@@ -1,0 +1,18 @@
+h1 {
+     background-color: green;
+     text-align: center;
+}
+
+body {
+    margin: 100px ;
+    border-color: green;
+    
+}
+
+.test {
+    background-color: firebrick;
+    display: inline-block;
+    display: flex;
+    
+    position: absolute;
+}
